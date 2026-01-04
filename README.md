@@ -11,9 +11,9 @@ Alumini Portal
 
   
 ## Setup
-cd backend
-npm install
-npm start
+- cd backend
+- npm install
+- npm start
 
 Create a .env file in /backend
 MONGO_URI=your_mongo_url
